@@ -1,0 +1,10 @@
+C:\Users\phoen\source\repos\##Texture Tool\XMLDownloader\bin\Debug\XMLDownloader.exe
+C:\Users\phoen\source\repos\##Texture Tool\XMLDownloader\bin\Debug\XMLDownloader.pdb
+C:\Users\phoen\source\repos\##Texture Tool\XMLDownloader\obj\Debug\XMLDownloader.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\##Texture Tool\XMLDownloader\obj\Debug\XMLDownloader.Properties.Resources.resources
+C:\Users\phoen\source\repos\##Texture Tool\XMLDownloader\obj\Debug\XMLDownloader.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\##Texture Tool\XMLDownloader\obj\Debug\XMLDownloader.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\##Texture Tool\XMLDownloader\obj\Debug\XMLDownloader.exe
+C:\Users\phoen\source\repos\##Texture Tool\XMLDownloader\obj\Debug\XMLDownloader.pdb
+C:\Users\phoen\source\repos\##Texture Tool\XMLDownloader\obj\Debug\XMLDownloader.Form1.resources
+C:\Users\phoen\source\repos\##Texture Tool\XMLDownloader\bin\Debug\XMLDownloader.exe.config

@@ -1,0 +1,19 @@
+C:\Users\phoen\source\repos\MinecraftTextureBuilder\TextureToolUpdater\bin\Debug\TextureToolUpdater.exe
+C:\Users\phoen\source\repos\MinecraftTextureBuilder\TextureToolUpdater\bin\Debug\TextureToolUpdater.pdb
+C:\Users\phoen\source\repos\MinecraftTextureBuilder\TextureToolUpdater\obj\Debug\TextureToolUpdater.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\MinecraftTextureBuilder\TextureToolUpdater\obj\Debug\TextureToolUpdater.FormMain.resources
+C:\Users\phoen\source\repos\MinecraftTextureBuilder\TextureToolUpdater\obj\Debug\TextureToolUpdater.Properties.Resources.resources
+C:\Users\phoen\source\repos\MinecraftTextureBuilder\TextureToolUpdater\obj\Debug\TextureToolUpdater.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\MinecraftTextureBuilder\TextureToolUpdater\obj\Debug\TextureToolUpdater.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\MinecraftTextureBuilder\TextureToolUpdater\obj\Debug\TextureToolUpdater.exe
+C:\Users\phoen\source\repos\MinecraftTextureBuilder\TextureToolUpdater\obj\Debug\TextureToolUpdater.pdb
+C:\Users\phoen\source\repos\##Texture Tool\TextureToolUpdater\bin\Debug\TextureToolUpdater.exe
+C:\Users\phoen\source\repos\##Texture Tool\TextureToolUpdater\bin\Debug\TextureToolUpdater.pdb
+C:\Users\phoen\source\repos\##Texture Tool\TextureToolUpdater\obj\Debug\TextureToolUpdater.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\##Texture Tool\TextureToolUpdater\obj\Debug\TextureToolUpdater.FormMain.resources
+C:\Users\phoen\source\repos\##Texture Tool\TextureToolUpdater\obj\Debug\TextureToolUpdater.Properties.Resources.resources
+C:\Users\phoen\source\repos\##Texture Tool\TextureToolUpdater\obj\Debug\TextureToolUpdater.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\##Texture Tool\TextureToolUpdater\obj\Debug\TextureToolUpdater.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\##Texture Tool\TextureToolUpdater\obj\Debug\TextureToolUpdater.exe
+C:\Users\phoen\source\repos\##Texture Tool\TextureToolUpdater\obj\Debug\TextureToolUpdater.pdb
+C:\Users\phoen\source\repos\##Texture Tool\TextureToolUpdater\bin\Debug\TextureToolUpdater.exe.config

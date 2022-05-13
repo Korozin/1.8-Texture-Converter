@@ -1,0 +1,15 @@
+/home/kali/Desktop/Minecraft-Texture-Builder-main/TextureToolUpdater/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/kali/Desktop/Minecraft-Texture-Builder-main/TextureToolUpdater/obj/Debug/TextureToolUpdater.FormMain.resources
+/home/kali/Desktop/Minecraft-Texture-Builder-main/TextureToolUpdater/obj/Debug/TextureToolUpdater.Properties.Resources.resources
+/home/kali/Desktop/Minecraft-Texture-Builder-main/TextureToolUpdater/obj/Debug/TextureToolUpdater.exe
+/home/kali/Desktop/Minecraft-Texture-Builder-main/TextureToolUpdater/obj/Debug/TextureToolUpdater.pdb
+/home/kali/Desktop/Tex/1.8-Converter/TextureToolUpdater/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/kali/Desktop/Tex/1.8-Converter/TextureToolUpdater/obj/Debug/TextureToolUpdater.FormMain.resources
+/home/kali/Desktop/Tex/1.8-Converter/TextureToolUpdater/obj/Debug/TextureToolUpdater.Properties.Resources.resources
+/home/kali/Desktop/Tex/1.8-Converter/TextureToolUpdater/bin/Debug/TextureToolUpdater.exe.config
+/home/kali/Desktop/Tex/1.8-Converter/TextureToolUpdater/bin/Debug/TextureToolUpdater.exe.mdb
+/home/kali/Desktop/Tex/1.8-Converter/TextureToolUpdater/bin/Debug/TextureToolUpdater.pdb
+/home/kali/Desktop/Tex/1.8-Converter/TextureToolUpdater/bin/Debug/TextureToolUpdater.exe
+/home/kali/Desktop/Tex/1.8-Converter/TextureToolUpdater/obj/Debug/TextureToolUpdater.exe
+/home/kali/Desktop/Tex/1.8-Converter/TextureToolUpdater/obj/Debug/TextureToolUpdater.exe.mdb
+/home/kali/Desktop/Tex/1.8-Converter/TextureToolUpdater/obj/Debug/TextureToolUpdater.pdb

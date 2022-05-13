@@ -1,0 +1,15 @@
+/home/kali/Desktop/Minecraft-Texture-Builder-main/XMLDownloader/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/kali/Desktop/Minecraft-Texture-Builder-main/XMLDownloader/obj/Debug/XMLDownloader.Form1.resources
+/home/kali/Desktop/Minecraft-Texture-Builder-main/XMLDownloader/obj/Debug/XMLDownloader.Properties.Resources.resources
+/home/kali/Desktop/Minecraft-Texture-Builder-main/XMLDownloader/obj/Debug/XMLDownloader.exe
+/home/kali/Desktop/Minecraft-Texture-Builder-main/XMLDownloader/obj/Debug/XMLDownloader.pdb
+/home/kali/Desktop/Tex/1.8-Converter/XMLDownloader/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttribute.cs
+/home/kali/Desktop/Tex/1.8-Converter/XMLDownloader/obj/Debug/XMLDownloader.Form1.resources
+/home/kali/Desktop/Tex/1.8-Converter/XMLDownloader/obj/Debug/XMLDownloader.Properties.Resources.resources
+/home/kali/Desktop/Tex/1.8-Converter/XMLDownloader/bin/Debug/XMLDownloader.exe.config
+/home/kali/Desktop/Tex/1.8-Converter/XMLDownloader/bin/Debug/XMLDownloader.exe.mdb
+/home/kali/Desktop/Tex/1.8-Converter/XMLDownloader/bin/Debug/XMLDownloader.pdb
+/home/kali/Desktop/Tex/1.8-Converter/XMLDownloader/bin/Debug/XMLDownloader.exe
+/home/kali/Desktop/Tex/1.8-Converter/XMLDownloader/obj/Debug/XMLDownloader.exe
+/home/kali/Desktop/Tex/1.8-Converter/XMLDownloader/obj/Debug/XMLDownloader.exe.mdb
+/home/kali/Desktop/Tex/1.8-Converter/XMLDownloader/obj/Debug/XMLDownloader.pdb
